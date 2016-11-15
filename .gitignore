@@ -1,2 +1,5 @@
 plugin-wp-nuxeo/vendor
+plugin-wp-nuxeo/.DS_Store
 wordpress
+.DS_Store
+.idea/
